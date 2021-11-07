@@ -3,7 +3,7 @@
 ## Overview of Election Audit
 ### Purpose 
     
-    The purpose of this challenge serves as an introduction to Python by getting familiar with the coding syntax, using 'for' loops, and conditionals to help Seth and Tom with the election audit. A fun, simple, and easy to understand code to help the election committee gather the data they need for the current election and for future elections. 
+The purpose of this challenge serves as an introduction to Python by getting familiar with the coding syntax, using 'for' loops, and conditionals to help Seth and Tom with the election audit. A fun, simple, and easy to understand code to help the election committee gather the data they need for the current election and for future elections. 
 
 
 ## Election-Audit Results:
